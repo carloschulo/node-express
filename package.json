@@ -1,0 +1,14 @@
+{
+  "name": "expressjs",
+  "version": "1.0.0",
+  "description": "building a site with expressjs and node",
+  "main": "app/app.js",
+  "scripts": {
+    "start": "node app/app.js"
+  },
+  "author": "Carlos Henriquez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
