@@ -4,7 +4,8 @@
   "description": "building a site with expressjs and node",
   "main": "app/app.js",
   "scripts": {
-    "start": "node app/app.js"
+    "start": "node app/app.js",
+    "n": "nodemon -e css,ejs,js,json --watch app --ignore feedback.json"
   },
   "author": "Carlos Henriquez",
   "license": "ISC",
